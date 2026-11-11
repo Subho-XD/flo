@@ -1,0 +1,55 @@
+# Flo Public Distribution Repository .gitignore
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Intermediate binaries & debug files (NEVER commit to distribution repo)
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+*.tlog
+*.res
+*.lastbuildstate
+
+# Build & test directories
+build/
+bin/
+tools/
+tests/
+dist/
+distribution/
+public_release/
+
+# Node & package manager directories
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+
+# Secrets & local environment configurations
+*.env
+*.secret
+*.pfx
+*.p12
+*.key
+*.pem
+bridge_auth.json
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Installer executables (distributed strictly via GitHub Releases, never committed to Git history)
+*.exe
+
+# Whitelist official extension packages inside the versioned packages directory
+!packages/
+!packages/**/*.ccx

@@ -1,0 +1,238 @@
+===============================================================================
+FLO — END USER LICENSE AGREEMENT (EULA)
+[DRAFT DISTRIBUTION TERMS — PENDING FINAL PUBLISHER JURISDICTION SELECTION]
+===============================================================================
+
+Agreement version: 1.0 (Draft)
+Effective date: This Agreement applies from the date you first install or use Flo.
+Publisher: Subho Ghorui
+Support and licensing: ghoruisubho1999@gmail.com
+
+IMPORTANT — PLEASE READ THIS AGREEMENT BEFORE INSTALLING OR USING FLO.
+
+By selecting “I Agree,” installing, copying, launching, or using Flo, you acknowledge
+that you have read and agree to this End User License Agreement (“Agreement”). If you
+do not agree, do not install or use Flo.
+
+-------------------------------------------------------------------------------
+1. DEFINITIONS
+-------------------------------------------------------------------------------
+1.1 “Flo” means the Flo software product and the components supplied by the Publisher
+for supported Windows computers, including its installer, application integrations,
+native companion components, recording utilities, updates, and accompanying documentation.
+
+1.2 “Publisher,” “we,” or “us” means Subho Ghorui, the publisher of Flo.
+
+1.3 “You” means the individual accepting this Agreement or, where the software is used
+on behalf of an organisation, that organisation and the individual authorised to accept
+this Agreement for it.
+
+1.4 “Adobe Host Application” means a compatible, lawfully licensed installation of
+Adobe Photoshop or Adobe InDesign supported by the relevant Flo integration.
+
+1.5 “User Content” means the documents, designs, text, images, audio, application
+windows, screen content, and other material that you choose to capture or record using Flo.
+
+-------------------------------------------------------------------------------
+2. LICENSE GRANT
+-------------------------------------------------------------------------------
+2.1 Subject to this Agreement, the Publisher grants you a limited, non-exclusive,
+non-transferable, revocable licence to install and use Flo for your personal creative
+workflows or internal business workflows on compatible Windows computers that you own
+or are authorised to use.
+
+2.2 You may install and use the applicable Flo integration only with a compatible and
+properly licensed Adobe Host Application. Flo does not provide or replace a licence for
+Adobe Photoshop, Adobe InDesign, Windows, or any other third-party product.
+
+2.3 Flo is provided as a standalone product without recurring subscription fees. Users
+may use Flo for personal creative workflows and internal business workflows in accordance
+with this Agreement.
+
+2.4 You may make a reasonable backup copy of the Flo installer for your own records,
+provided that the copy is not distributed to others and remains subject to this Agreement.
+
+-------------------------------------------------------------------------------
+3. PERMITTED USE
+-------------------------------------------------------------------------------
+Subject to this Agreement, you may:
+(a) install and use Flo through the official installer and supported installation procedures;
+(b) use compatible Flo integrations with supported Adobe Host Applications;
+(c) capture and record your own creative workflows and other screen or audio content
+    that you are legally authorised to capture;
+(d) save, edit, retain, and share recordings that you have the necessary rights and
+    permissions to use, including commercial use of your completed videos; and
+(e) install updates supplied by the Publisher, subject to applicable update requirements.
+
+-------------------------------------------------------------------------------
+4. RESTRICTIONS
+-------------------------------------------------------------------------------
+You must not, except to the extent expressly permitted by applicable law or with
+the Publisher’s prior written permission:
+(a) sell, rent, lease, sublicense, lend, distribute, publish, repackage, or otherwise
+    make Flo or its components available to third parties;
+(b) modify, adapt, translate, or create derivative works of Flo;
+(c) reverse engineer, decompile, disassemble, or attempt to derive the source code of Flo,
+    except where applicable law does not permit this restriction;
+(d) remove, obscure, or alter copyright, trademark, or proprietary notices;
+(e) circumvent licensing, authentication, security, or technical restrictions in Flo;
+(f) use Flo to distribute malware, interfere with another person’s systems, or obtain
+    unauthorised access to data or applications;
+(g) use Flo for unlawful surveillance, covert monitoring, or recording without legally
+    required authority or consent; or
+(h) use Flo in a way that infringes another person’s intellectual property, privacy,
+    confidentiality, or other legal rights.
+
+-------------------------------------------------------------------------------
+5. USER CONTENT AND RECORDING RESPONSIBILITIES
+-------------------------------------------------------------------------------
+5.1 You retain your rights in User Content. The Publisher does not acquire ownership
+of your documents, designs, recordings, or other User Content merely because you use
+Flo to capture them.
+
+5.2 You are solely responsible for determining whether you have the legal right,
+authority, and any required consent to record, store, edit, publish, or share User Content.
+
+5.3 This responsibility includes, where applicable, confidential client or employer
+material, personal information, copyrighted works, trade secrets, private communications,
+audio, and content belonging to third parties.
+
+5.4 You are responsible for reviewing recordings before sharing or publishing them and
+for complying with applicable copyright, data-protection, privacy, employment, confidentiality,
+and recording laws.
+
+-------------------------------------------------------------------------------
+6. PRIVACY, DATA, AND LOCAL PROCESSING
+-------------------------------------------------------------------------------
+6.1 Flo’s core recording functionality is designed to capture and save recordings locally
+on your Windows computer at the storage location you select. The core recording workflow
+does not require you to upload your creative documents or completed recordings to the Publisher.
+
+6.2 Flo may inspect local technical information needed to operate and install the software,
+such as Windows capabilities, graphics hardware and drivers, installed Adobe application
+names and versions, application paths, and required system components. This information
+is used for local compatibility detection and operation.
+
+6.3 Flo’s InDesign integration uses local loopback communication between its UXP plugin
+and the Flo native companion component to coordinate recording. This local communication
+operates entirely on the same computer and is not an internet service.
+
+6.4 You are responsible for securing your computer, user account, storage folders, and
+recorded files, including maintaining appropriate backups.
+
+-------------------------------------------------------------------------------
+7. THIRD-PARTY SOFTWARE AND SERVICES
+-------------------------------------------------------------------------------
+7.1 Flo operates alongside third-party software and relies on Windows APIs, Microsoft
+Direct3D, Windows Graphics Capture, Media Foundation, hardware encoder drivers, Adobe UXP,
+and other third-party components.
+
+7.2 Those third-party products and components remain subject to their own licence terms,
+notices, and intellectual property rights. This Agreement does not grant you rights to
+use any third-party product beyond the rights granted by its owner.
+
+7.3 Adobe, Adobe Photoshop, Adobe InDesign, Microsoft, Windows, Direct3D, and other
+third-party names and marks belong to their respective owners. Flo is an independently
+developed product and is not affiliated with, sponsored by, or endorsed by Adobe or Microsoft.
+
+-------------------------------------------------------------------------------
+8. SYSTEM REQUIREMENTS, COMPATIBILITY, AND UPDATES
+-------------------------------------------------------------------------------
+8.1 Flo requires a compatible Windows 64-bit system, supported graphics capabilities
+and drivers, and compatible Adobe Host Applications. Some features require Windows Graphics
+Capture, Direct3D 11, Media Foundation, a supported hardware H.264 encoder, or additional
+Microsoft runtime components.
+
+8.2 Compatibility may vary by Windows edition, operating-system build, graphics hardware,
+driver, Adobe application version, and installed system components.
+
+8.3 The Publisher may provide updates, fixes, security improvements, and compatibility
+changes.
+
+-------------------------------------------------------------------------------
+9. INTELLECTUAL PROPERTY
+-------------------------------------------------------------------------------
+9.1 Flo and its original software, design, branding, icons, documentation, and associated
+materials are proprietary and owned by the Publisher and are protected by applicable
+intellectual-property laws.
+
+9.2 Except for the limited licence expressly granted in this Agreement, no ownership,
+copyright, trademark, patent, or other intellectual-property right is transferred to you.
+Flo is not open-source software.
+
+9.3 “Flo” and its associated branding may be used only to identify the genuine product
+and may not be used to suggest that an unauthorised modified product is official.
+
+-------------------------------------------------------------------------------
+10. SUPPORT AND AVAILABILITY
+-------------------------------------------------------------------------------
+10.1 For licensing, installation, and technical-support enquiries, contact:
+Publisher: Subho Ghorui
+Email: ghoruisubho1999@gmail.com
+
+10.2 Support availability and the provision of updates are not guaranteed unless
+separately agreed in writing.
+
+-------------------------------------------------------------------------------
+11. LIMITED WARRANTY AND DISCLAIMER
+-------------------------------------------------------------------------------
+11.1 Flo is provided on an “AS IS” and “AS AVAILABLE” basis.
+
+11.2 To the maximum extent permitted by applicable law, the Publisher does not warrant
+that Flo will be uninterrupted, error-free, compatible with every system configuration,
+or capable of preventing every recording interruption, dropped frame, or encoding issue.
+
+11.3 You should save your original creative documents and maintain independent backups
+of important recordings. Flo is a recording utility and should not be treated as the sole
+backup system for your work.
+
+-------------------------------------------------------------------------------
+12. LIMITATION OF LIABILITY
+-------------------------------------------------------------------------------
+12.1 To the maximum extent permitted by applicable law, the Publisher will not be liable
+for indirect, incidental, special, exemplary, punitive, or consequential loss, or for
+loss of profits, revenue, business opportunity, goodwill, anticipated savings, or data
+arising from or related to the use of or inability to use Flo.
+
+-------------------------------------------------------------------------------
+13. SUSPENSION AND TERMINATION
+-------------------------------------------------------------------------------
+13.1 This Agreement remains in effect until terminated.
+
+13.2 Your licence ends automatically if you materially breach this Agreement.
+
+13.3 You may terminate this Agreement at any time by stopping use of Flo and uninstalling
+it from your computer.
+
+-------------------------------------------------------------------------------
+14. UNINSTALLATION AND USER FILES
+-------------------------------------------------------------------------------
+14.1 Flo may be uninstalled through Windows Settings under Installed Apps or Control Panel.
+
+14.2 The Flo uninstaller removes Flo application components and supported Adobe integrations.
+It preserves recorded videos and user-created content by default.
+
+-------------------------------------------------------------------------------
+15. GOVERNING LAW AND DISPUTES
+-------------------------------------------------------------------------------
+This Agreement is governed by the laws of [INSERT THE PUBLISHER’S CHOSEN GOVERNING-LAW JURISDICTION],
+excluding conflict-of-law rules to the extent permitted by applicable law. The courts or
+dispute-resolution bodies of [INSERT COMPETENT JURISDICTION] will have jurisdiction,
+subject always to any mandatory consumer-protection rights and mandatory jurisdiction
+rules that apply to you.
+
+[LEGAL NOTICE: Final formalisation of this Agreement is pending publisher selection of
+governing-law jurisdiction and competent forum. Do not distribute as a final legal agreement
+until jurisdiction placeholders are completed.]
+
+-------------------------------------------------------------------------------
+16. CONTACT
+-------------------------------------------------------------------------------
+For questions about this Agreement, licensing, or Flo support, contact:
+
+Subho Ghorui
+Email: ghoruisubho1999@gmail.com
+
+===============================================================================
+END OF FLO END USER LICENSE AGREEMENT
+===============================================================================

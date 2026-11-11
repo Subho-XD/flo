@@ -1,0 +1,32 @@
+name: Feature Request
+description: Propose an improvement or new capability for Flo
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Propose a Feature or Improvement
+        Thank you for helping shape Flo's roadmap! We welcome ideas that improve creative workflow recording.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Current Workflow Problem
+      description: What challenge or friction do you encounter in your current creative recording workflow?
+      placeholder: Describe the practical bottleneck or limitation you are experiencing.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_improvement
+    attributes:
+      label: Proposed Improvement
+      description: What specific feature, control, or behavior would you like Flo to introduce?
+      placeholder: Describe clearly how you envision the feature working.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_result
+    attributes:
+      label: Expected Result & Creative Benefits
+      description: How will this feature benefit creators and streamline recording sessions?
+    validations:
+      required: true

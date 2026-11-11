@@ -1,0 +1,100 @@
+name: Bug Report
+description: Report an issue or bug encountered while using Flo
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Reporting a Flo Issue
+        Thank you for reporting an issue with Flo!
+        Please ensure you do not share confidential client documents, credentials, or private personal information in your report.
+  - type: input
+    id: flo_version
+    attributes:
+      label: Flo Version
+      description: The version of Flo installed on your system.
+      placeholder: e.g. 2.0.1
+    validations:
+      required: true
+  - type: dropdown
+    id: host_app
+    attributes:
+      label: Adobe Host Application
+      description: Which Adobe application is experiencing the issue?
+      options:
+        - Adobe Photoshop
+        - Adobe InDesign
+    validations:
+      required: true
+  - type: input
+    id: host_version
+    attributes:
+      label: Adobe Application Version
+      description: Exact version of the Adobe application (e.g. Photoshop 2025 v26.1, InDesign 2025 v20.0).
+      placeholder: e.g. Photoshop 2025 (v26.0)
+    validations:
+      required: true
+  - type: input
+    id: windows_version
+    attributes:
+      label: Windows OS Version & Build
+      description: Your Windows edition and build number.
+      placeholder: e.g. Windows 11 Pro 23H2 (Build 22631.4317)
+    validations:
+      required: true
+  - type: dropdown
+    id: integration_used
+    attributes:
+      label: Integration Type Used
+      description: Did you install via unified setup or individual CCX?
+      options:
+        - Unified Windows Installer (Flo_Setup.exe)
+        - Individual Photoshop CCX (Flo_Photoshop.ccx)
+        - Individual InDesign CCX with Companion (Flo_InDesign.ccx)
+    validations:
+      required: true
+  - type: dropdown
+    id: recording_mode
+    attributes:
+      label: Recording Mode
+      description: Which recording mode was active when the issue occurred?
+      options:
+        - Entire Application (Normal Recording)
+        - Entire Application (Timelapse)
+        - Custom Region (Normal Recording)
+        - Custom Region (Timelapse)
+        - Toolbar Launch / UI State
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behaviour
+      description: What did you expect Flo to do?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behaviour
+      description: What actually occurred? Please provide specific details.
+    validations:
+      required: true
+  - type: textarea
+    id: repro_steps
+    attributes:
+      label: Steps to Reproduce
+      description: Step-by-step instructions to reproduce the behavior.
+      placeholder: |
+        1. Open Photoshop / InDesign
+        2. Launch Flo from the Plugins menu
+        3. ...
+    validations:
+      required: false
+  - type: textarea
+    id: logs_or_media
+    attributes:
+      label: Sanitised Logs or Screenshots
+      description: Attach any relevant sanitized screenshots or non-confidential logs. Redact any sensitive artwork, filenames, or personal details.
+    validations:
+      required: false
