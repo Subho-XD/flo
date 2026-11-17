@@ -1,0 +1,205 @@
+# FLO DESKTOP
+## END USER LICENSE AGREEMENT
+
+**Agreement Version:** 1.0  
+**Publisher:** Subho Ghorui  
+**Contact:** ghoruisubho1999@gmail.com  
+**Effective:** Upon your acceptance of this Agreement.
+
+PLEASE READ THIS AGREEMENT BEFORE INSTALLING OR USING FLO DESKTOP.
+
+By accepting this Agreement during installation, or by installing or using Flo Desktop, you agree to its terms. If you do not agree, do not install or use the application.
+
+## 1. Definitions
+
+**"Flo Desktop" or "Application"** means the standalone Windows screen-recording software distributed under the Flo name, including its installer, application components, floating recording controls, update checker and accompanying documentation.
+
+**"Publisher"** means Subho Ghorui.
+
+**"User" or "you"** means the individual or organisation installing or using the Application.
+
+**"User Content"** means the screen content, documents, applications, audio, video and other material that you choose to capture or record using Flo Desktop.
+
+This Agreement applies specifically to Flo Desktop. It does not govern the separate Flo Adobe integrations, which are subject to their own applicable licence terms.
+
+## 2. Licence Grant
+
+The Publisher grants you a free, non-exclusive, non-transferable licence to install and use Flo Desktop for personal and commercial purposes on compatible Windows computers that you own or are authorised to use.
+
+Permitted use includes:
+
+- Personal projects and individual creative work.
+- Professional and studio workflows.
+- Internal business and organisational use.
+- Creating, editing, publishing and commercially distributing recordings made using the Application.
+
+No subscription, recurring payment or usage fee is required for the rights granted under this Agreement.
+
+This licence does not transfer ownership of Flo Desktop or its intellectual property to you.
+
+## 3. Installation and Official Distribution
+
+Flo Desktop is distributed through the official Flo GitHub repository and the official Flo website.
+
+You may download and install the Application through those official channels.
+
+You may share links to the official download pages so that other users can obtain their own copies.
+
+You must not redistribute the installer or Application binaries through unofficial websites, file-hosting services, third-party download portals, mirrors or other distribution channels without the Publisher's prior written permission.
+
+## 4. Restrictions
+
+You must not, except where expressly permitted by the Publisher or required by applicable law:
+
+- Sell, rent, lease, sublicense or redistribute Flo Desktop or its installer.
+- Repackage, modify or distribute altered copies as official Flo releases.
+- Remove or obscure copyright, branding or proprietary notices.
+- Use the Flo name or branding to misrepresent an unauthorised version as an official release.
+- Circumvent technical restrictions or security mechanisms.
+- Reverse engineer, decompile or disassemble the Application, except to the extent that applicable law expressly permits such activity.
+- Use the Application for unlawful surveillance, unauthorised recording or activities that violate another person's legal rights.
+
+You must not use Flo Desktop in a way that infringes intellectual property, privacy, confidentiality or other rights belonging to another person or organisation.
+
+## 5. Ownership of Recordings and User Content
+
+You retain ownership of your User Content.
+
+The Publisher does not claim ownership of your captured screen content, documents, audio, videos or completed recordings merely because you use Flo Desktop.
+
+You may edit, publish, share, distribute and commercially use your recordings, provided that you have the necessary rights and permissions relating to the material captured.
+
+You are responsible for ensuring that your recordings comply with applicable copyright, privacy, confidentiality, employment and recording laws.
+
+This includes obtaining any consent or authorisation required before recording third-party content, conversations, private communications, client material or protected information.
+
+## 6. Privacy and Local Data Handling
+
+Flo Desktop is designed to process recordings locally on your Windows computer.
+
+The Publisher does not operate a cloud storage service for your recordings and does not collect analytics or telemetry through the Application.
+
+Flo Desktop does not require a user account.
+
+Your screen recordings, audio recordings, documents and captured content are not uploaded to the Publisher as part of normal recording functionality.
+
+### Update Checking
+
+The Application includes a Check for Updates feature.
+
+When you initiate an update check, Flo Desktop connects to the public GitHub releases API over HTTPS to retrieve release information for compatible Flo Desktop versions.
+
+The update checker uses this information to identify a newer Desktop release and its official installer download address.
+
+GitHub may process standard connection and request metadata under its own terms and privacy policies.
+
+The update-check request does not include your recordings, captured screen content, documents or audio.
+
+When an update is available, Flo Desktop provides access to its official installer. The user controls whether to download and install it. The update checker does not silently install an update.
+
+## 7. Storage and Uninstallation
+
+Flo Desktop saves recordings to the storage location selected by the User.
+
+You are responsible for maintaining appropriate backups of important recordings and other personal files.
+
+The Application's uninstaller is intended to remove Flo Desktop application components while preserving user recordings and personal content by default.
+
+You remain responsible for files stored outside the Application's installation directory.
+
+The Publisher is not responsible for files you independently delete, overwrite or remove during manual file management or uninstallation.
+
+## 8. Intellectual Property
+
+Flo Desktop, including its original software, user interface, branding, logo, icons, documentation and associated materials, is protected by applicable intellectual-property laws.
+
+The Publisher retains all rights, title and interest in the Application except for the limited usage rights expressly granted in this Agreement.
+
+No ownership, copyright, trademark or other intellectual-property rights are transferred to you.
+
+Public availability of the Flo GitHub repository does not, by itself, grant permission to redistribute the Application, installer, binaries or branded release packages.
+
+Third-party software components remain subject to their respective licences and notices.
+
+## 9. Third-Party Software and Compatibility
+
+Flo Desktop relies on Windows platform technologies and may use third-party components, system APIs, graphics drivers and media-encoding technologies.
+
+The availability and behaviour of particular features may depend on:
+
+- Windows version and configuration.
+- Graphics hardware and installed drivers.
+- Media Foundation components.
+- Available hardware or software encoders.
+- Display configuration and connected devices.
+
+Microsoft, Windows and other third-party product names and trademarks belong to their respective owners.
+
+Flo Desktop is independently developed and is not affiliated with, sponsored by or endorsed by Microsoft or Adobe.
+
+## 10. Updates and Support
+
+The Publisher may release updates, compatibility improvements, corrections and new features.
+
+Updates may be accessed through the built-in update checker or the official distribution channels.
+
+The availability of future updates or technical support is not guaranteed for any particular period unless separately agreed in writing.
+
+## 11. Warranty Disclaimer
+
+Flo Desktop is provided on an "AS IS" and "AS AVAILABLE" basis, to the extent permitted by applicable law.
+
+The Publisher does not guarantee that the Application will operate without interruption, be compatible with every hardware configuration or remain free from all defects.
+
+Recording performance and output quality may vary according to system resources, drivers, capture conditions and encoder capabilities.
+
+You should preserve original documents and maintain independent backups of important files. Flo Desktop should not be treated as the sole backup system for your work.
+
+Nothing in this Agreement excludes a warranty or right that cannot lawfully be excluded under applicable Indian law.
+
+## 12. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Publisher shall not be liable for indirect, incidental, special or consequential loss arising from the use of or inability to use Flo Desktop, including loss of anticipated profits, business opportunities or data.
+
+You remain responsible for maintaining backups of important material and for reviewing recordings before sharing or publishing them.
+
+Nothing in this Agreement excludes or limits liability that cannot lawfully be excluded or limited under applicable Indian law.
+
+## 13. Suspension and Termination
+
+You may stop using Flo Desktop and uninstall it at any time.
+
+Your licence may be terminated if you materially breach this Agreement.
+
+Upon termination, you must stop using the Application and remove installed copies that you are no longer licensed to use.
+
+Termination does not transfer or remove your ownership of recordings and User Content that you lawfully created.
+
+## 14. Changes to this Agreement
+
+The Publisher may update this Agreement when necessary to reflect changes to the Application, distribution model or applicable legal requirements.
+
+A revised Agreement will be made available through the official distribution channels and will identify its version or effective date.
+
+Material changes will not be used to remove rights that applicable law requires to be preserved.
+
+## 15. Governing Law and Jurisdiction
+
+This Agreement shall be governed by and interpreted in accordance with the laws of the Republic of India.
+
+Subject to mandatory consumer-protection rights and applicable jurisdictional requirements, disputes arising from this Agreement shall be subject to the jurisdiction of courts of competent jurisdiction in India.
+
+The parties should first make a reasonable effort to resolve disputes through direct communication before initiating formal proceedings.
+
+Nothing in this section removes any mandatory legal right or remedy available to a consumer under applicable Indian law.
+
+## 16. Contact
+
+For questions concerning this Agreement, licensing or Flo Desktop, contact:
+
+**Publisher:** Subho Ghorui  
+**Email:** ghoruisubho1999@gmail.com
+
+---
+
+**END OF FLO DESKTOP END USER LICENSE AGREEMENT**
