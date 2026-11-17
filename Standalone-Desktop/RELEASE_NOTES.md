@@ -1,3 +1,23 @@
+# Flo Desktop 1.0.1 — Release Notes
+
+**Release Tag:** `desktop-v1.0.1`  
+**Platform:** Windows 10 / Windows 11 (64-bit x64)  
+**Installer:** `Flo-Desktop-Setup.exe`
+
+---
+
+## Dependency-Aware Installer & Prerequisite Verification
+
+Flo Desktop `1.0.1` is a patch release upgrading `Flo-Desktop-Setup.exe` and `FloDesktopUninstall.exe` to automatically detect, verify, and install missing system prerequisites before installing Flo Desktop:
+
+- **Pre-Install System Check (`Checking your system`):** Runs immediately after EULA acceptance and verifies Windows 10/11 x64 (`>= 10.0.18362`), Direct3D 11 hardware adapter (`11_1`–`10_0`), Windows Graphics Capture (`GraphicsCaptureSession::IsSupported()`), Microsoft Visual C++ 2015–2022 Runtime (x64), Media Foundation (`mfplat.dll` / `MFStartup`), Windows N/KN Media Feature Pack (when applicable), and `150 MB` minimum free disk space.
+- **Standalone Static-CRT Installer (`/MT`):** `Flo-Desktop-Setup.exe` and `FloDesktopUninstall.exe` have zero `VCRUNTIME140.dll` / `MSVCP140.dll` runtime imports, ensuring setup launches cleanly even when Visual C++ Runtime x64 is absent.
+- **Official Microsoft Prerequisite Acquisition & Verification:** Downloads missing Visual C++ Runtime x64 from Microsoft over HTTPS (`https://aka.ms/vs/17/release/vc_redist.x64.exe`), verifies `WinVerifyTrust` and `Microsoft Corporation` Authenticode signature before elevated execution, and installs the Windows Media Feature Pack via `dism.exe` on Windows N editions only. GPU drivers are never auto-installed.
+- **Safe Failure, Cancel & Reboot-Resume Handling:** Never proceeds to Flo Desktop installation if a mandatory prerequisite is unsupported, cancelled, or fails; persists `PendingResume` state on `3010` reboot-required without forcing a restart; and preserves existing Flo Desktop recordings and Adobe editions.
+- **Version Metadata Alignment:** Updated `FloDesktop.exe`, `Flo-Desktop-Setup.exe`, and `FloDesktopUninstall.exe` version resources to `1.0.1.0` so **About → Check for Updates** accurately reflects the installed `1.0.1` release.
+
+---
+
 # Flo Desktop 1.0.0 — Release Notes
 
 **Release Tag:** `desktop-v1.0.0`  

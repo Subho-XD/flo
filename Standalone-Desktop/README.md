@@ -12,8 +12,9 @@ Flo Desktop is a native Windows screen recorder designed to make capturing your 
 3. Download `Flo-Desktop-Setup.exe` from that release.
 4. Run the installer.
 5. Read and accept the End User License Agreement.
-6. Follow the installation steps.
-7. Launch Flo Desktop from the Windows Start menu.
+6. Review the **Checking your system** step: the installer verifies Windows 10/11 64-bit (`1903` / Build `18362` or newer), Direct3D 11 graphics hardware, Windows Graphics Capture, Visual C++ 2015–2022 Runtime (x64), Media Foundation (and the Media Feature Pack on Windows N editions), and at least `150 MB` of free disk space.
+7. If **Visual C++ Runtime (x64)** or the **Windows Media Feature Pack** (Windows N only) is missing, allow the installer to download/install only the missing Microsoft prerequisite(s). Downloaded installers are verified for HTTPS transport and a valid `Microsoft Corporation` Authenticode signature before execution. GPU drivers are never auto-installed. If a prerequisite requires a system restart (`3010`), you can restart at your convenience and relaunch the installer to resume.
+8. Follow the remaining installation steps and launch Flo Desktop from the Windows Start menu.
 
 You do not need Adobe Photoshop, InDesign or any other Adobe application to use Flo Desktop.
 
